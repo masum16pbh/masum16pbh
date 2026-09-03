@@ -107,12 +107,12 @@ The project aims to develop practical robotic systems for agricultural applicati
 -  Build practical embedded and automation projects
 -  Continue learning and improving
 
-## 📫 Contact Me
+##  Contact Me
 
 - GitHub: [@masum16pbh](https://github.com/masum16pbh)
 - Email: [masumbillahparchakra@gmail.com](mailto:masumbillahparchakra@gmail.com)
 - Facebook : [MD Masum Billah](https://www.facebook.com/md.masum.billah.49519)
-- Location: **Jashore, Bangladesh **
+- Location: Jashore, Bangladesh 
 
 ---
 
