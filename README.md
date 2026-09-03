@@ -1,20 +1,129 @@
-<h1 align="center">Hi 👋, I'm Md Masum Billah</h1>
-<h3 align="center">A passionate problem solver from Bangladesh</h3>
+<img src="./banner3.png" alt="Md Masum Billah Banner" width="100%" />
+# Hi, I'm MD MASUM BILLAH 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masum16pbh" alt="masum16pbh" /></a> </p>
+### 💻 CSE Graduate | Full Stack Web Development Learner | Robotics & Automation Enthusiast
 
-- 🌱 I’m currently learning **full stack web development**
+I'm a Computer Science & Engineering graduate interested in building practical software and hardware-based solutions. I enjoy programming, problem solving, embedded systems, robotics, and industrial automation.
 
-- 📫 How to reach me **masumbillahparchakra@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/md.masum.billah.49519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.masum.billah.49519" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🎓 CSE Graduate
+- 🌱 Currently learning **Full Stack Web Development**
+- 💻 Interested in **Software Development**
+- 🤖 Passionate about **Robotics & Industrial Automation**
+- 🔧 Interested in **Embedded Systems, Sensors & Automation**
+- 🧠 Enjoy **Problem Solving & Algorithms**
+- 🌾 Working on robotics and autonomous navigation projects
+- 📍 Jashore, Bangladesh 🇧🇩
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masum16pbh&show_icons=true&locale=en&layout=compact" alt="masum16pbh" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masum16pbh&" alt="masum16pbh" /></p>
+## 🛠️ Technologies & Skills
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+### Full Stack Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Robotics & Embedded Systems
+
+- 🤖 Robotics
+- ⚙️ Industrial Automation
+- 🔌 Embedded Systems
+- 📡 Sensors & Actuators
+- 🎛️ Motor Control
+- 🍓 Raspberry Pi
+- 🔧 8051 / STM8S
+- 🗺️ Autonomous Navigation
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 🤖 Featured Project
+
+### 🌾 FarmNav-2M
+
+An autonomous agricultural robot navigation project designed for coordinate-based navigation.
+
+**Technologies & Concepts:**
+
+- Raspberry Pi
+- Python
+- Ultrasonic Sensors
+- Motor Control
+- Coordinate-Based Navigation
+- Path Planning
+- Obstacle Detection
+- Autonomous Robotics
+
+The project aims to develop practical robotic systems for agricultural applications.
+
+---
+
+## 💡 My Interests
+
+- 🤖 Robotics
+- ⚙️ Industrial Automation
+- 🔌 Embedded Systems
+- 💻 Full Stack Web Development
+- 🧠 Problem Solving
+- 📡 Sensors & Control Systems
+- 🌐 Software Development
+- 🚗 Autonomous Systems
+
+---
+
+## 🎯 Current Goals
+
+- 🔹 Become a skilled **Full Stack Web Developer**
+- 🔹 Build real-world web applications
+- 🔹 Improve my backend and frontend development skills
+- 🔹 Deepen my knowledge of **Industrial Automation & Robotics**
+- 🔹 Build practical embedded and automation projects
+- 🔹 Continue learning and improving
+
+---
+
+## 📊 GitHub Stats
+
+![Masum's GitHub stats](https://github-readme-stats.vercel.app/api?username=masum16pbh&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masum16pbh&layout=compact&theme=default)
+
+---
+
+## 📫 Contact Me
+
+- 💻 GitHub: [@masum16pbh](https://github.com/masum16pbh)
+- 📧 Email: [masumbillahparchakra@gmail.com](mailto:masumbillahparchakra@gmail.com)
+- 📍 Location: **Jashore, Bangladesh 🇧🇩**
+
+---
+
+### ⚡ Learning today, building for tomorrow.
+
+**Code • Create • Automate • Learn • Improve**
