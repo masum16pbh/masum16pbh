@@ -42,7 +42,7 @@ I'm a Computer Science & Engineering graduate interested in building practical s
 ### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
+<!--
 ### Robotics & Embedded Systems
 
 - 🤖 Robotics
@@ -53,7 +53,7 @@ I'm a Computer Science & Engineering graduate interested in building practical s
 - 🍓 Raspberry Pi
 - 🔧 8051 / STM8S
 - 🗺️ Autonomous Navigation
-
+-->
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -100,19 +100,19 @@ The project aims to develop practical robotic systems for agricultural applicati
 
 ## 🎯 Current Goals
 
-- 🔹 Become a skilled **Full Stack Web Developer**
-- 🔹 Build real-world web applications
-- 🔹 Improve my backend and frontend development skills
-- 🔹 Deepen my knowledge of **Industrial Automation & Robotics**
-- 🔹 Build practical embedded and automation projects
-- 🔹 Continue learning and improving
+-  Become a skilled **Full Stack Web Developer**
+-  Build real-world web applications
+-  Improve my backend and frontend development skills
+-  Deepen my knowledge of **Industrial Automation & Robotics**
+-  Build practical embedded and automation projects
+-  Continue learning and improving
 
 ## 📫 Contact Me
 
-- 💻 GitHub: [@masum16pbh](https://github.com/masum16pbh)
-- 📧 Email: [masumbillahparchakra@gmail.com](mailto:masumbillahparchakra@gmail.com)
+- GitHub: [@masum16pbh](https://github.com/masum16pbh)
+- Email: [masumbillahparchakra@gmail.com](mailto:masumbillahparchakra@gmail.com)
 - Facebook : [MD Masum Billah](https://www.facebook.com/md.masum.billah.49519)
-- 📍 Location: **Jashore, Bangladesh 🇧🇩**
+- Location: **Jashore, Bangladesh 🇧🇩**
 
 ---
 
