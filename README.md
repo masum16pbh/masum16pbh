@@ -106,16 +106,6 @@ The project aims to develop practical robotic systems for agricultural applicati
 - 🔹 Build practical embedded and automation projects
 - 🔹 Continue learning and improving
 
----
-
-## 📊 GitHub Stats
-
-![Masum's GitHub stats](https://github-readme-stats.vercel.app/api?username=masum16pbh&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masum16pbh&layout=compact&theme=default)
-
----
-
 ## 📫 Contact Me
 
 - 💻 GitHub: [@masum16pbh](https://github.com/masum16pbh)
